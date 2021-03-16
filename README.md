@@ -31,3 +31,4 @@ Add will return the JSON of the object you just added.
 Get will return all payers' names and balances.
 Spend will return the payers' and the amount of points they spent.
 I decided to not allow spending of negative points so that will return an empty object.
+I used Postman to test the requests and recommend it be used for ease of use. 
